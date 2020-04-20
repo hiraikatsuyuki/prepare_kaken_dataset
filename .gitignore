@@ -1,0 +1,11 @@
+__pycache__
+.ipynb_checkpoints
+.vscode
+dump_kadai
+dump_researcher
+dump_researcher_additional
+grants_masterxml_kaken
+json
+json_additional
+old
+xml
