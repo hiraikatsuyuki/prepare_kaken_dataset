@@ -1,1 +1,1 @@
-# prepare_kaken_dataset
+# KAKENデータセット取得プログラム
